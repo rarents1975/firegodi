@@ -1,7 +1,7 @@
 {
-  "name": "puffer-firetv",
+  "name": "firegodi",
   "version": "1.0.0",
-  "description": "Stanford Puffer Live TV Streaming App for Fire TV (Example / How-to)",
+  "description": "rks app for firetv",
   "main": "index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kidGodzilla/puffer-firetv-example.git"
+    "url": "git+https://github.com/rarents1975/firegodi.git"
   },
   "keywords": [
     "fire",
@@ -21,7 +21,7 @@
     "tv",
     "streaming"
   ],
-  "author": "James Futhey <futhey@gmail.com> (http://jamesfuthey.com/)",
+  "author": "Ralf Rentschler <xrrunner1975@gmail.com>)",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/kidGodzilla/puffer-firetv-example/issues"
